@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Çoklu Dil</string>
+    <string name="dil">TÜRKÇE</string>
+    <string name="dil_seciniz">Dil Seçiniz!</string>
+    <string name="dil_degistir">Diliniz Türkçe</string>
+    <string name="aciklama">Bu uygulama ysfbil tarafından geliştirilmiştir.</string>
+</resources>

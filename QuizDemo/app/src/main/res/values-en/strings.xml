@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz Demo</string>
+    <string name="Main_textView3">Home</string>
+    <string name="Main_textView4">Best Score:</string>
+    <string name="Main_buton">START</string>
+    <string name="Quiz_textView3">Score:</string>
+    <string name="Quiz_textView2">Question:</string>
+    <string name="Quiz_button2">NEXT</string>
+    <string name="Quize_buton2_2">FINISH TEST</string>
+    <string name="Quiz_button2_3">CHECK</string>
+    <string name="CikisUyari">Press back again to exit.</string>
+    <string name="DogruCevap">True answer is:</string>
+    <string name="SecenekUyari">Please select an answer.</string>
+
+</resources>

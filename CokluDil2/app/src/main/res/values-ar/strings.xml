@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">متعدد اللغات</string>
+    <string name="dil">عربي</string>
+    <string name="dil_seciniz">اختر اللغة!</string>
+    <string name="dil_degistir">لغتك العربية</string>
+    <string name="aciklama">تم تطوير هذا التطبيق بواسطة ysfbil.</string>
+</resources>

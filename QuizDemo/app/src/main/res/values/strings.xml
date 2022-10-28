@@ -1,0 +1,14 @@
+<resources>
+    <string name="Main_textView3">Sınav Uygulamam</string>
+    <string name="Main_textView4">En Yüksk Puan:</string>
+    <string name="Main_buton">BAŞLA</string>
+    <string name="Quiz_textView3">Puan:</string>
+    <string name="Quiz_textView2">Soru:</string>
+    <string name="Quiz_button2">SONRAKİ</string>
+    <string name="Quize_buton2_2">TESTİ BİTİR</string>
+    <string name="app_name">Sınav Demo</string>
+    <string name="Quiz_button2_3">KONTROL ET</string>
+    <string name="CikisUyari">Çıkmak için tekrar geri tuşuna basınız</string>
+    <string name="DogruCevap">Doğru cevap:</string>
+    <string name="SecenekUyari">Lütfen bir seçeneği işaretleyiniz</string>
+</resources>
